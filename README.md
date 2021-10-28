@@ -1,2 +1,2 @@
-# queue-worker-service
-A go tool which simulates aws fargate task execution through aws SQS / simple fargate call as local docker 
+# queue-worker-scaler
+A go tool which simulates aws task execution scaler by aws SQS queue counts as local docker 
